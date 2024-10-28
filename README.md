@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <title>README - Easy Shopping</title>
-</head>
-<body>
-    <h1>Easy Shopping Via Mobile</h1>
+
+  <h1>Easy Shopping Via Mobile</h1>
     
   <h2>Descrição do Projeto</h2>
   <p>O <strong>Easy Shopping Via Mobile</strong> é uma aplicação web desenvolvida para facilitar o processo de compras online diretamente pelo celular. O projeto foi criado durante as aulas do DevClub com foco em responsividade e usabilidade.</p>
@@ -41,5 +35,4 @@
     
   <h2>Autor</h2>
     <p>Projeto desenvolvido por Alef Barboza durante as aulas do <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.</p>
-</body>
-</html>
+
