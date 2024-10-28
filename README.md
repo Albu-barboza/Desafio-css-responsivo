@@ -37,4 +37,4 @@
     <p>Projeto desenvolvido por Alef Barboza durante as aulas do <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.</p>
 <img src="https://github.com/Albu-barboza/Desafio-css-responsivo/blob/main/img/image.png?raw=true">
 
-<img src="https://github.com/Albu-barboza/Desafio-css-responsivo/blob/main/img/image%20copy.png?raw=true"
+<img src="https://github.com/Albu-barboza/Desafio-css-responsivo/blob/main/img/image%20copy.png?raw=true">
